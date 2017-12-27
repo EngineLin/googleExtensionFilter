@@ -1,0 +1,28 @@
+body {
+    width: 500px;
+} 
+
+.titles {
+    margin: 20px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+.btn-style {
+    margin: 0 5px 10px 0;
+}
+
+#tagsZoomTitle {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#switch:hover {
+    cursor: pointer;
+}
+
+a:hover {
+    cursor: pointer;
+}
